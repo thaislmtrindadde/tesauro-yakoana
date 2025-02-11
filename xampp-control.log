@@ -1,0 +1,30 @@
+12:13:00  [main] 	Initializing Control Panel
+12:13:00  [main] 	Windows Version:  Home  64-bit
+12:13:00  [main] 	XAMPP Version: 7.2.28
+12:13:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:13:00  [main] 	You are not running with administrator rights! This will work for
+12:13:00  [main] 	most application stuff but whenever you do something with services
+12:13:00  [main] 	there will be a security dialogue or things will break! So think 
+12:13:00  [main] 	about running this application with administrator rights!
+12:13:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:13:00  [main] 	Checking for prerequisites
+12:13:02  [main] 	All prerequisites found
+12:13:02  [main] 	Initializing Modules
+12:13:02  [Apache] 	XAMPP Apache is already running on port 80
+12:13:02  [Apache] 	XAMPP Apache is already running on port 443
+12:13:02  [mysql] 	XAMPP MySQL is already running on port 3306
+12:13:02  [main] 	Starting Check-Timer
+12:13:02  [main] 	Control Panel Ready
+12:19:50  [Apache] 	Status change detected: stopped
+12:19:50  [Apache] 	Error: Apache shutdown unexpectedly.
+12:19:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:19:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:19:50  [Apache] 	Press the Logs button to view error logs and check
+12:19:50  [Apache] 	the Windows Event Viewer for more clues
+12:19:50  [Apache] 	If you need more help, copy and post this
+12:19:50  [Apache] 	entire log window on the forums
+12:20:14  [Apache] 	Attempting to start Apache app...
+12:20:15  [Apache] 	Status change detected: running
+21:26:47  [main] 	Deinitializing Modules
+21:26:47  [main] 	Deinitializing Control Panel
+
